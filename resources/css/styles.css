@@ -22,15 +22,19 @@ p{
   font-size: 14px;
 }
 
+.top a{
+  font-size: 18px;
+  color: white;
+}
+
+.footer a{
+  font-size: 11px;
+  color: white;
+}
 .top,
 .design-ny{
   color: white;
   background-image: url("../the-flatiron-building.png");
-}
-
-.top{
-  font-size: 18px;
-  color: white;
 }
 
 .footer{
@@ -38,4 +42,8 @@ p{
   color: white;
   background-color: dimgrey;
   text-align: left;
+}
+
+.footer p{
+  font-size: 11px;
 }
